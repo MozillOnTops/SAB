@@ -1,1 +1,2 @@
-adas dasdasdasgvdjkabjfkafadfdfaf
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zyro-H/Myownlua/refs/heads/main/script"))()
+
